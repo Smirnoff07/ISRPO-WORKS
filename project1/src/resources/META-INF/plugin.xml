@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>test.simple.plugin</id>
+    <name>Text Window Display</name>
+    <version>1.0</version>
+    <vendor>Test</vendor>
+    <description>Плагин, который показывает текстовое окно с сообщением</description>
+    <idea-version since-build="193.0"/>
+
+    <actions>
+        <action class="com.nikita.plugin.TextWindowAction"
+                text="Show Text Window"
+                description="Shows text window with message"/>
+    </actions>
+</idea-plugin>
+
+
+

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CaseConverter">
+    <output-path>$PROJECT_DIR$/out/artifacts/CaseConverter</output-path>
+    <root id="archive" name="CaseConverter.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/project1" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/resources/META-INF/plugin.xml" />
+    </root>
+  </artifact>
+</component>
